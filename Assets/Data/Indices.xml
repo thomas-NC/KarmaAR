@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IndicesCollection>
+  <Indices>
+    <Indice id="1">
+      <content>blablabla</content>
+    </Indice>
+    <Indice id="2">
+      <content>ouloulou</content>
+    </Indice>
+  </Indices>
+</IndicesCollection>
