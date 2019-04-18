@@ -2,10 +2,130 @@
 <IndicesCollection>
   <Indices>
     <Indice id="1">
-      <content>blablabla</content>
+      <content>MPE</content>
     </Indice>
     <Indice id="2">
-      <content>ouloulou</content>
+      <content>MPE</content>
+    </Indice>
+    <Indice id="3">
+      <content>Bonne pièce d'échecs</content>
+    </Indice>
+    <Indice id="5">
+      <content>Chalumeau</content>
+    </Indice>
+    <Indice id="6">
+      <content>Allumettes</content>
+    </Indice>
+    <Indice id="7">
+      <content>journal du traître</content>
+    </Indice>
+    <Indice id="8">
+      <content>Lampe Cassée</content>
+    </Indice>
+    <Indice id="12">
+      <content>Bouteille (3D)</content>
+    </Indice>
+    <Indice id="14">
+      <content>Clé à molette</content>
+    </Indice>
+    <Indice id="15">
+      <content>Echiquier</content>
+    </Indice>
+    <Indice id="16">
+      <content>Rien ne se passe (mpe)</content>
+    </Indice>
+    <Indice id="17">
+      <content>Rien ne se passe (mpe)</content>
+    </Indice>
+    <Indice id="18">
+      <content>Carte magnétique</content>
+    </Indice>
+    <Indice id="19">
+      <content>Carte de la réserve</content>
+    </Indice>
+    <Indice id="20">
+      <content>Lettre du traitre</content>
+    </Indice>
+    <Indice id="21">
+      <content>Poudre inflammable</content>
+    </Indice>
+    <Indice id="27">
+      <content>Lampe à Huile</content>
+    </Indice>
+    <Indice id="30">
+      <content>Tuyau</content>
+    </Indice>
+    <Indice id="32">
+      <content>Message de Bienvenue</content>
+    </Indice>
+    <Indice id="33">
+      <content>Porte salle matériel</content>
+    </Indice>
+    <Indice id="40">
+      <content>Porte Chambre du traître</content>
+    </Indice>
+    <Indice id="42">
+      <content>Jeu labyrinthe</content>
+    </Indice>
+    <Indice id="43">
+      <content>jeu Exploration sous-marine</content>
+    </Indice>
+    <Indice id="44">
+      <content>Bouteille avec papier</content>
+    </Indice>
+    <Indice id="45">
+      <content>Porte de la baie</content>
+    </Indice>
+    <Indice id="46">
+      <content>Boitier</content>
+    </Indice>
+    <Indice id="47">
+      <content>Code des templiers</content>
+    </Indice>
+    <Indice id="48">
+      <content>Cutter</content>
+    </Indice>
+    <Indice id="56">
+      <content>Fils éléctriques</content>
+    </Indice>
+    <Indice id="58">
+      <content>Salle du traître</content>
+    </Indice>
+    <Indice id="71">
+      <content>Salle de la baie</content>
+    </Indice>
+    <Indice id="76">
+      <content>Boite du jeu</content>
+    </Indice>
+    <Indice id="82">
+      <content>Porte salle de commande</content>
+    </Indice>
+    <Indice id="89">
+      <content>Salle matériel</content>
+    </Indice>
+    <Indice id="97">
+      <content>Dague (morceau de code 4)</content>
+    </Indice>
+    <Indice id="99">
+      <content>Coffre</content>
+    </Indice>
+    <Indice id="A">
+      <content>Morceau de code 1</content>
+    </Indice>
+    <Indice id="B">
+      <content>Bureau</content>
+    </Indice>
+    <Indice id="G">
+      <content>Papier du code crypté</content>
+    </Indice>
+    <Indice id="J">
+      <content>Morceau de code 3</content>
+    </Indice>
+    <Indice id="U">
+      <content>Morceau de code 2</content>
+    </Indice>
+    <Indice id="W">
+      <content>Porte de la réserve</content>
     </Indice>
   </Indices>
 </IndicesCollection>

@@ -6,11 +6,13 @@ using UnityEngine.UI;
 public class UIFadeMenu : MonoBehaviour
 {
     private IEnumerator coroutine;
+    public float time;
+
     // Start is called before the first frame update
     public void fadeOut(float time)
     {
         GetComponent<Image>().CrossFadeAlpha(0f, time, false);
-        coroutine = waitAndDie(1f);
+        coroutine = waitAndDie(time);
         StartCoroutine(coroutine);
         
         

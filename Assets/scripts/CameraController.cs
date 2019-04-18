@@ -11,6 +11,7 @@ public class CameraController : MonoBehaviour
 
     void Start()
     {
+        Screen.orientation = ScreenOrientation.LandscapeLeft;
         offset = transform.position - player.transform.position;
     }
 
