@@ -8,7 +8,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <ProjectGuid>{FDEF7166-8555-CFC0-8D70-5F2FFB6B3F92}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -99,7 +100,9 @@
     <None Include="Assets\StreamingAssets\Vuforia\TestKarmaAr.xml" />
     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
-    <None Include="Assets\Data\Indices.xml" />
+    <None Include="Assets\Resources\Indices.xml">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/tomas/Desktop/Unity/VuforiaTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

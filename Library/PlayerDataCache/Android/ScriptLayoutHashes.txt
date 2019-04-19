@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/tomas/Desktop/Unity/VuforiaTest/builds/test-vufo-2.6.apk
+C:/Users/tomas/Desktop/Unity/VuforiaTest/builds/test-vufo-2.7.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 Assets/Scenes/LabLum.unity
@@ -92,7 +92,7 @@ fc108ce7d98c40ac0907e8ca7f500c76 UnityEngine.UI.dll:UnityEngine.UI.Text
 abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.FrameRate
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.IndicesReader
+0c38abebed6296bd01711f3ea39baf24 Assembly-CSharp.dll:.IndicesReader
 9e27f44bbf48228f203a37254d40f8ae Assembly-CSharp.dll:.JoystickSetterExample
 7c3b99786a24f3d7d33baac1331ecce4 Assembly-CSharp.dll:.PopUpText
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -124,10 +124,11 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 71bb6a6b6c8f052f948db64c7dd3ca4f VuforiaScripts.dll:.DefaultInitializationErrorHandler
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.UIFadeMenu
+79f1e4d923cfc803b34c05ae2cb73dac Assembly-CSharp.dll:.UIFadeMenu
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
+4ce15e99c635d2567873d27549d1f16f Assembly-CSharp.dll:.UIDigicode
 0077fc8e4fbae67f80e80ebd534de5a0 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 f8b139fcde9fda6214245df246415cc7 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 0077fc8e4fbae67f80e80ebd534de5a0 Vuforia.UnityExtensions.dll:Vuforia.AnchorStageBehaviour
